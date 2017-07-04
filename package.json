@@ -1,12 +1,11 @@
 {
   "name": "BootstrapMultiSelectForMendix",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "",
   "license": "",
   "author": "",
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
